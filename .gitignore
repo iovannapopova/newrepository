@@ -25,3 +25,4 @@ DerivedData
 # AppCode
 #
 .idea/
+.DS_Store
